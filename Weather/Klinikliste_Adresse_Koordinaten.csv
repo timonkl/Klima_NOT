@@ -1,0 +1,86 @@
+t_klinik;klinik_name;Straße;Nr;PLZ;Ort;Bundesland;Latitude;Longitude
+1;Paracelsus-Klinik Henstedt-Ulzburg;Wilstedter Str.;134;24558;Henstedt-Ulzburg;Schleswig-Holstein;53.7490391648204;10.007967224795824
+2;Universitätsklinikum Magdeburg A.ö.R.;Leipziger Str.;44;39120;Magdeburg;Sachsen-Anhalt;52.10191929806027;11.619208346954986
+3;Krankenhaus der barmherzigen Brüder Trier;Nordallee;1;54292;Trier;Niedersachsen;49.76311783215606;6.639340530825829
+8;Universitätsmedizin Göttingen;Robert-Koch-Straße;40;37075;Göttingen;Niedersachsen;51.550680935909526;9.943030935141309
+9;Universitätsklinikum Aachen;Pauwelsstraße;30;52074;Aachen;Nordrhein-Westfalen;50.776303411274604;6.043878273189144
+10;Pius Hospital Oldenburg;Georgstraße;12;26121;Oldenburg;Niedersachsen;53.143910263695076;8.210421426665315
+11;Ostalb-Klinikum Aalen;Im Kälblesrain;1;73430;Aalen;Baden-Wuertemberg;48.84860383198003;10.085705890614744
+12;Klinikum Fürth;Jakob-Henle-Straße;1;90766;Fürth;Bayern;49.484708935448765;10.975117817119349
+13;Klinikum Wolfsburg;Sauerbruchstraße;7;38440;Wolfsburg;Niedersachsen;52.41333825805419;10.768890628858315
+14;Universitätsklinikum Jena;Am Klinikum;1;7747;Jena;Thueringen;50.88548426091337;11.621911113378474
+15;Katharinenhospital Stuttgart;Kriegsbergstraße;60;70174;Stuttgart;Baden-Wuerttemberg;48.78380378038847;9.173535085002793
+16;Klinikum Chemnitz gGmbH;Flemmingstraße;2;9116;Chemnitz;Sachsen;50.8440411819168;12.888116888555087
+18;Klinikum Memmingen;Bismarckstraße;23;87700;Memmingen;Bayern;47.98297619975803;10.169397040403366
+19;Helios Klinikum Berlin-Buch;Schwanebecker Ch;50;13125;Berlin;Berlin;52.63136821475237;13.511103555780863
+20;Klinikum Aschaffenburg-Alzenau;Am Hasenkopf;1;63739;Aschaffenburg;Bayern;49.97745914463385;9.18779820399822
+22;Evangelisches Krankenhaus Oldenburg;Steinweg;13;26122;Oldenburg;Niedersachsen;53.142953152041265;8.205660826598372
+23;Universitätsklinikum Augsburg;Stenglinstraße;2;86156;Augsburg;Bayern;48.38479344118411;10.840253420378058
+24;Elblandklinikum Riesa;Weinbergstraße;8;1589;Riesa;Sachsen;51.29651311292769;13.309536157864452
+25;Universitätsklinikum Schleswig-Holstein Campus Lübeck;Ratzeburger Allee;160;23562;Lübeck;Nordrhein-Westfalen;53.83532329581266;10.706810786592095
+26;Elblandklinikum Meißen;Nassauweg;7;1662;Meißen;Sachsen;51.17370207486108;13.505316728874792
+27;Universitätsklinikum Regensburg;Franz-Josef-Strauß-Allee;11;93053;Regensburg;Bayern;48.9877997846429;12.090411886269427
+28;Klinikum rechts der Isar der Technischen Universität München;Ismaninger Str.;22;81675;München;Bayern;48.137327355466766;11.59895886260311
+29;Universitätsklinikum Schleswig-Holstein Campus Kiel;Arnold-Heller-Str;3;24105;Kiel;Schleswig-Holstein;54.329695171344795;10.142498784554343
+30;Ludwig-Maximilians-Universität Klinikum Großhadern;Marchioninistraße;15;81377;München;Nordrhein-Westfalen;48.11151810688942;11.470284371140414
+31;Universitätsklinikum Freiburg;Hugstetter Str.;55;79106;Freiburg im Breisgau;Baden-Wuerttemberg;48.0063076788712;7.836429273328444
+32;Klinikum Oldenburg;Rahel-Straus-Straße;10;26133;Oldenburg;Niedersachsen;53.11217074172562;8.216333179477532
+33;Universitätsmedizin Essen;Hufelandstraße;55;45147;Essen;Nordrhein-Westfalen;51.43537776445662;6.987849717622832
+34;Universitätsklinikum Leipzig;Liebigstraße;18;4103;Leipzig;Sachsen;51.330907716817066;12.386227392761295
+35;Campus Charite Mitte;Charitépl.;1;10117;Berlin;Berlin;52.52689023076799;13.37668939999751
+36;Charite Campus Virchow-Klinikum Kindernotaufnahme;Mittelallee;8;13353; Berlin;Berlin;52.54234562561392;13.342144471131006
+37;Uniklinik Köln;Kerpener Str.;62;50937;Köln;Nordrhein-Westfalen;50.924505157506594;6.919439142267136
+38;Ludwig-Maximilians-Universität Klinikum Innenstadt;Ziemssenstraße;5;80336;München;Bayern;48.13256101381117;11.561440062776002
+39;Städtische Klinikum Braunschweig gGmbH;Salzdahlumer Str.;90;38126;Braunschweig;Niedersachsen;52.238149032887534;10.54623707113682
+40;Universitätsklinikum Münster;Albert-Schweitzer-Campus;1;48149;Münster;Nordrhein-Westfalen;51.96146468751014;7.597491588630001
+41;Universitätsmedizin Greifswald;Fleichmannstraße;8;17475;Greifswald;Mecklenburg-Vorpommern;54.08887801349068;13.402380644282102
+42;Evangelisches Krankenhaus Wesel GmbH;Schermbecker Landstraße;88;46485;Wesel;Nordrhein-Westfalen;51.66016808278029;6.655509284657861
+43;Carl-von-Basedow-Klinikum Saalekreis gGmbH;Weiße Mauer;52;6217;Merseburg;Sachsen-Anhalt;51.366517862180324;11.993943871126046
+44;Kliniken Landkreis Heidenheim;Schloßhaustraße;100;89522;Heidenheim an der Brenz;Berlin;48.67274845278826;10.141535359837594
+45;Klinikum Wolfsburg Pädiatrie;Sauerbruchstraße;7;38440;Wolfsburg;Niedersachsen;52.414384140211354;10.768863101966394
+46;Universitätsklinikum Heidelberg;Im Neuenheimer Feld;672;69120;Heidelberg;Hessen;49.42005956741812;8.667543842280711
+47;Universitätsmedizin der Johannes Gutenberg-Universität Mainz;Langenbeckstraße;1;55131;Mainz;Rheinland-Pfalz;49.992631758961714;8.259955971137119
+48;Klinikum Garmisch-Partenkirchen;Auenstraße;6;82467;Garmisch-Partenkirchen;Bayern;47.48404960928606;11.127780773180088
+49;Schwarzwald-Baar Klinikum Villingen-Schwenningen;Klinikstraße;11;78052;Villingen-Schwenningen;Baden-Wuerttemberg;48.06514222888702;8.499482273188221
+50;Klinikum Emden;Bolardusstraße;20;26721;Emden;Niedersachsen;53.37555330808005;7.213170863862049
+51;Ubbo-Emmius-Klinik Aurich;Wallinghausener Str.;8;26603;Aurich;Niedersachsen;53.46840137039306;7.497945410231769
+52;Ubbo-Emmius-Klinik Norden;Osterstraße;110;26506;Norden;Niedersachsen;53.60079496558897;7.2181303308568685
+53;Universitätsklinikum Schleswig-Holstein Pädiatrie Campus Kiel;Arnold-Heller-Str;3;24105;Kiel;Bayern;54.32962663091287;10.145342157715277
+54;Universitätsklinikum Schleswig-Holstein Pädiatrie Campus Lübeck;Ratzeburger Allee;160;23562;Lübeck;Niedersachsen;53.83425264296261;10.70650000047425
+55;Universitätsklinikum Düsseldorf;Moorenstraße;5;40225;Düsseldorf;Nordrhein-Westfalen;51.1955599304834;6.789867055475823
+56;Sankt Joseph Krankenhaus Tempelhof;Wüsthoffstraße;15;12101;Berlin;Berlin;52.47823976129666;13.373857223796179
+57;Evangelisches Klinikum Bethel gGmbH;Burgsteig;13;33617;Bielefeld;Nordrhein-Westfalen;52.01442601320245;8.525680301722542
+58;Pädiatrie Katharinenhospital Stuttgart;Kriegsbergstraße;60;70174;Stuttgart;Baden-Wuerttemberg;48.78429759954744;9.172556779849195
+60;Universitätsklinikum Marburg;Baldingerstraße;1;35043;Marburg;Hessen;50.81503530596121;8.806214435558175
+61;Charite Campus Virchow-Klinikum;Augustenburger Pl.;1;13353;Berlin;Berlin;52.54208652641616;13.343099951042742
+62;Charite Campus Benjamin Franklin;Hindenburgdamm;30;12203;Berlin;Berlin;52.4424756550245;13.321782186718881
+63;Notfallambulanz des Zentrums für Kinder-und Jugendmedizin am Universitätsklinikum Freiburg;Heiliggeiststraße;1;79106;Freiburg im Breisgau;Baden-Wuerttemberg;48.00417071953537;7.843105222140494
+64;Kreiskrankenhaus Demmin GmbH;Wollweberstraße;21;17109;Demmin;Mecklenburg-Vorpommern;53.90250192589069;13.041681991177315
+65;Universitätsklinikum Würzburg;Josef-Schneider-Straße;2;97080;Würzburg;Bayern;49.802157795474955;9.956881064430055
+66;Universitätsklinikum Gießen;Rudolf-Buchheim-Straße;8;35392;Gießen;Hessen;50.575272548563724;8.666418137543006
+67;Kindernotaufnahme Memmingen;Bismarckstraße;23;87700;Memmingen;Bayern;47.982839753692915;10.16894642677389
+68;Vivantes Klinikum im Friedrichshain;Landsberger Allee;49;10249;Berlin;Berlin;52.52466807009941;13.4389755999954
+69;BG Klinikum Bergmannstrost Halle;Merseburger Str.;165;6112;Halle;Sachsen-Anhalt;51.46054854821371;11.985005942215563
+70;Elblandklinikum Radebeul;Heinrich-Zille-Straße;13;1445;Radebeul;Sachsen;51.10838650545163;13.651429171141977
+71;Klinik Preetz;Am Krankenhaus;5;24211;Preetz;Schleswig-Holstein;54.239012982608806;10.27837565725772
+72;Katholisches Klinikum Bochum gGmbH;Gudrunstraße;56;44791;Bochum;Nordrhein-Westfalen;51.49463055527534;7.228757141215735
+73;Universitätsklinikum des Saarlandes;Kirrberger Straße;100;66421;Homburg;Saarland;49.306547215394694;7.345077798414643
+74;Medizinische Fakultät Mannheim der Universität Heidelberg;Ludolf-Krehl-Straße;13;68167;Mannheim;Baden-Württemberg;49.4958806262322;8.49409191534214
+75;Bielefeld Mitte Universitätsklinikum OWL der Universität Bielefeld;Teutoburger Straße;50;33604;Bielefeld;Nordrhein-Westfalen;52.01418724994535;8.544698288355349
+76;Schildesche Evangelisches Klinikum Bethel gGmbH;Schildescher Straß0e;99;33611;Bielefeld;Nordrhein-Westfalen;52.04179128672507;8.5407855
+77;Universitätsklinikum Bonn;Venusberg Campus;1;52127;Bonn;Nordrhein-Westfalen;50.70129185618288;7.105544506916912
+78;Universitätsklinikum Frankfurt am Main;Theodor-Stern-Kai;7;60596;Frankfurt am Main;Hessen;50.09519801441329;8.661777275148868
+79;Vivantes Humboldt-Klinikum;Am Nordgraben;2;13509;Berlin;Berlin;52.589989766657155;13.307503654336761
+80;Köln-Merheim Kliniken der Stadt Köln GmbH;Ostmerheimer Straße;200;51109;Köln;Nordrhein-Westfalen;50.9387665158409;7.051943598151257
+81;Sana Klinikum Offenbach;Starkenburgring;66;63069;Offenbach am Main;Hessen;50.09411280892718;8.75731335343215
+82;Klinikum Peine;Virchowstraße;8;31226;Peine;Niedersachsen;52.3016139944653;10.23749294083439
+83;Bielefeld Rosenhöhe Universitätsklinikum OWL der Universität Bielefeld;An der Rosenhöhe;27;33647;Bielefeld;Nordrhein-Westfalen;51.98276990502864;8.532108959519814
+84;Bielefeld Halle (Westf.) Universitätsklinikum OWL der Universität Bielefeld;Winnebrockstraße;1;33790;Halle (Westfalen);Sachsen-Anhalt;52.05609220766156;8.354776675399233
+85;Pädiatrie Köln-Riehl Kliniken der Stadt Köln GmbH;Amsterdamer Straße;59;50735;Köln;Nordrhein-Westfalen;50.96314825026524;6.966751873602463
+86;Köln-Holweide Kliniken der Stadt Köln GmbH;Neufelder Straße;32;51067;Köln;Nordrhein-Westfalen;50.966875162662745;7.0561915497399115
+87;Klinikum Magdeburg gemeinnützige GmbH;Birkenallee;34;39130;Magdeburg;Sachsen-Anhalt;52.158756465096765;11.583344932567982
+88;Pädiatrie LMU Innenstadt Ludwig-Maximilians-Universität Klinikum Innenstadt;Lindwurmstraße;4;80337;München;Bayern;48.13024634495929;11.559151942557774
+89;Kreiskliniken Herford-Bünde;Schwarzenmoorstraße;70;32049;Herford;Nordrhein-Westfalen;52.16720410721161;8.721352225230023
+90;Offenburg-Kehl Ortenau Klinikum gKAöR;Kanzmattstraße;2;77694;Kehl;Baden-Württemberg;48.57352633587912;7.810764305339913
+91;Lahr Ortenau Klinikum gKAöR;Klostenstraße;19;77933;Lahr (Schwarzwald);Baden-Württemberg;48.34468683266155;7.886236715342139
+92;Krankenhaus Barmherzige Brüder Regensburg;Prüfeninger Straße;86;93049;Regensburg;Bayern;49.016523810664815;12.064578186506603
